@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Tutorial-Plugin:jar">
+    <output-path>$USER_HOME$/Server2/plugins</output-path>
+    <root id="archive" name="Tutorial-Plugin.jar">
+      <element id="module-output" name="Tutorial-Plugin" />
+    </root>
+  </artifact>
+</component>

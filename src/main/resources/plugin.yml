@@ -1,0 +1,9 @@
+name: tutorial
+version: '${project.version}'
+main: dev.redgamer6427a.tutorialplugin.Tutorial_Plugin
+api-version: '1.20'
+commands:
+  broadcast:
+    description: sendet eine Ankündigung
+    aliases:
+    - brc
